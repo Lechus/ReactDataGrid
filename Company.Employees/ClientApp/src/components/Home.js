@@ -7,8 +7,9 @@ export class Home extends Component {
     return (
       <div>
         <h1>Company database lookup</h1>
-        <p>To help you get started, we have set up onf of two modules for you:</p>
+        <p>To help you get started, we have set up two modules for you:</p>
         <ul>
+          <li><strong>Employees</strong></li>
           <li><strong>Organisations</strong></li>
         </ul>
       </div>
