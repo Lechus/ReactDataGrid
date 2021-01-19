@@ -1,4 +1,4 @@
-namespace Company.Employees
+namespace Company.Employees.Models
 {
     public class Organisation
     {
