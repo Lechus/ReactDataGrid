@@ -30,7 +30,7 @@ export class Organisations extends Component {
         </thead>
         <tbody>
           {organisations.map(organisation =>
-            <tr key={organisation.organisationId}>
+            <tr key={organisation.organisationNumber}>
               <td>{organisation.organisationName}</td>
               <td>{organisation.organisationNumber}</td>
               <td>{organisation.addressLine1}</td>
