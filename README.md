@@ -37,3 +37,4 @@ Just click Run
 4. Master / Details view for Organisations
 5. Add Swagger documentation
 6. Auditing capability to track data usage
+7. Use https://adazzle.github.io/react-data-grid/docs/examples/simple-grid
